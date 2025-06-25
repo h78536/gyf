@@ -240,7 +240,7 @@ CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 
-📡IPV4央视,#genre#
+📡央视备用,#genre#
 
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2#http://8.138.7.223/tv/dl/douyincdn.php?id=2$LR•IPV4『线路146』#http://8.138.7.223/tv/dl/careryun.php?id=2$LR•IPV4『线路148』#http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路181』#http://smart.tv.home.kg/smtv.php?id=cctv2#http://8.138.7.223/tv/dl/douyincdn.php?id=2
@@ -312,7 +312,7 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17#http://8.138.7.223/tv
 云南卫视,http://39.164.180.36:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路112』#http://39.164.180.36:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#http://fxgm.fxjf.work:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://smart.tv.home.kg/smtv.php?id=zhejiang_twn#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路55』#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路56』#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4『线路89』#http://8.138.7.223/tv/dl/douyincdn.php?id=19$LR•IPV4『线路99』#http://8.138.7.223/tv/dl/careryun.php?id=22$LR•IPV4『线路100』#http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路119』#http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路178』#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://8.138.7.223/tv/zjws.m3u8#http://222.169.85.8:9901/tsfile/live/0019_1.m3u8#http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#https://stream1.freetv.fun/3bcf99d2946ccf8b6feabbc8298a4630913b805d5965a209a4d2de2ae9ffc79f.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路105』#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4『线路166』#http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 
-卫视频道,#genre#
+卫视频道2,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
