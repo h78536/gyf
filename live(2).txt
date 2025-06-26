@@ -45,7 +45,7 @@
 
 
 
-📡央视频道,#genre#
+央视频道,#genre#
 
 
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
