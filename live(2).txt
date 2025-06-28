@@ -507,7 +507,7 @@ CHC影迷电影,http://117.72.194.224:655/zb.php?id=chcym
 精品剧场,http://117.72.194.224:655/zb.php?id=jpjc
 经典动画大集合,http://117.72.194.224:655/zb.php?id=jddhdjh
 
-🌏港澳台频道,#genre#
+🇹🇼台湾,#genre#
 
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻$雷蒙影视•IPV4『线路1』
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8$雷蒙影视•IPV4『线路2』
