@@ -20,24 +20,32 @@ CCTV-16,http://go.bkpcp.top/mg/cctv16
 CCTV-17,http://go.bkpcp.top/mg/cctv17
 
 秒播央卫,#genre#
-CCTV-1,http://60.10.139.113:8801/hls/1/index.m3u8
-CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV-3,http://60.10.139.113:8801/hls/3/index.m3u8
-CCTV-4,http://60.10.139.113:8801/hls/4/index.m3u8
-CCTV-5,http://60.10.139.113:8801/hls/5/index.m3u8
-CCTV-5+,http://60.10.139.113:8801/hls/15/index.m3u8
-CCTV-6,http://60.10.139.113:8801/hls/6/index.m3u8
-CCTV-7,http://60.10.139.113:8801/hls/7/index.m3u8
-CCTV-8,http://60.10.139.113:8801/hls/8/index.m3u8
-CCTV-9,http://60.10.139.113:8801/hls/9/index.m3u8
-CCTV-10,http://60.10.139.113:8801/hls/10/index.m3u8
-CCTV-11,http://60.10.139.113:8801/hls/96/index.m3u8
-CCTV-12,http://60.10.139.113:8801/hls/11/index.m3u8
-CCTV-13,http://60.10.139.113:8801/hls/12/index.m3u8
-CCTV-14,http://60.10.139.113:8801/hls/13/index.m3u8
-CCTV-15,http://60.10.139.113:8801/hls/97/index.m3u8
-CCTV-17,http://60.10.139.113:8801/hls/98/index.m3u8
-CGTN,http://60.10.139.113:8801/hls/14/index.m3u8
+CCTV1,http://bobohome.ignorelist.com:20247/migu?id=608807420.m3u8
+CCTV2,http://bobohome.ignorelist.com:20247/migu?id=631780532.m3u8
+CCTV3,http://bobohome.ignorelist.com:20247/migu?id=624878271.m3u8
+CCTV4,http://bobohome.ignorelist.com:20247/migu?id=631780421.m3u8
+CCTV4欧洲,http://bobohome.ignorelist.com:20247/migu?id=608807419.m3u8
+CCTV4美洲,http://bobohome.ignorelist.com:20247/migu?id=608807416.m3u8
+CCTV5,http://bobohome.ignorelist.com:20247/migu?id=641886683.m3u8
+CCTV5+,http://bobohome.ignorelist.com:20247/migu?id=641886773.m3u8
+CCTV6,http://bobohome.ignorelist.com:20247/migu?id=624878396.m3u8
+CCTV7,http://bobohome.ignorelist.com:20247/migu?id=673168121.m3u8
+CCTV8,http://bobohome.ignorelist.com:20247/migu?id=624878356.m3u8
+CCTV9,http://bobohome.ignorelist.com:20247/migu?id=673168140.m3u8
+CCTV10,http://bobohome.ignorelist.com:20247/migu?id=624878405.m3u8
+CCTV11,http://bobohome.ignorelist.com:20247/migu?id=667987558.m3u8
+CCTV12,http://bobohome.ignorelist.com:20247/migu?id=673168185.m3u8
+CCTV13,http://bobohome.ignorelist.com:20247/migu?id=608807423.m3u8
+CCTV14,http://bobohome.ignorelist.com:20247/migu?id=624878440.m3u8
+CCTV15,http://bobohome.ignorelist.com:20247/migu?id=673168223.m3u8
+CCTV17,http://bobohome.ignorelist.com:20247/migu?id=673168256.m3u8
+CETV1,http://bobohome.ignorelist.com:20247/migu?id=923287154.m3u8
+CETV2,http://bobohome.ignorelist.com:20247/migu?id=923287211.m3u8
+CETV4,http://bobohome.ignorelist.com:20247/migu?id=923287339.m3u8
+CGTN,http://bobohome.ignorelist.com:20247/migu?id=609017205.m3u8
+CGTN俄语,http://bobohome.ignorelist.com:20247/migu?id=609006446.m3u8
+CGTN法语,http://bobohome.ignorelist.com:20247/migu?id=609006476.m3u8
+CGTN西语,http://bobohome.ignorelist.com:20247/migu?id=609006450.m3u8
 
 央卫IPV4,#genre#	
 
@@ -1479,6 +1487,31 @@ HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
 浙江悦动之音,https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
 浙江之声,https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
 
+影视在线,#genre#
+赵本山经典小品,https://goodiptv.club/douyu/9817716
+宋小宝经典小品,https://goodiptv.club/douyu/9817729
+3030相声小品,https://goodiptv.club/douyu/9286868
+日本女子摔角,https://goodiptv.club/douyu/425809
+经典小品,https://goodiptv.club/douyu/9067836
+开心锤锤,https://goodiptv.club/douyu/9018297
+邵氏影院,https://goodiptv.club/douyu/4246519
+斗鱼电影HD4,https://goodiptv.club/douyu/85894
+阿七点歌台,https://goodiptv.club/douyu/3186217
+贝贝影院,https://goodiptv.club/douyu/431460
+贝爷贰厅,https://goodiptv.club/douyu/4332
+橙記港剧✔原,https://goodiptv.club/douyu/4549169
+华语影视✔原,https://goodiptv.club/douyu/3928
+精彩短剧看不停,https://goodiptv.club/douyu/11824307
+可乐影院,https://goodiptv.club/douyu/20415
+女神金,https://goodiptv.club/douyu/747764
+特辑电影,https://goodiptv.club/douyu/3637778
+万合出品,https://goodiptv.club/douyu/9220456
+网神影厅,https://goodiptv.club/douyu/508118
+星爷房✔原,https://goodiptv.club/douyu/122402
+怡宝影院,https://goodiptv.club/douyu/434971
+粤语电影,https://goodiptv.club/douyu/1226741
+赵本删不删,https://goodiptv.club/douyu/9837104
+
 中数传媒,#genre#
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -1539,13 +1572,33 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+四海钓鱼,http://bobohome.ignorelist.com:20247/migu?id=637444975.m3u8
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
+快乐垂钓,http://bobohome.ignorelist.com:20247/migu?id=961930263.m3u8
 梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 
 港台节目,#genre#
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+TVB新聞,https://cdn6.cc.cd/163189/wxxw
+TVB新聞,https://cdn6.cc.cd/163189/wxxw
+TVB新聞,http://rihou.cc:555/tv/[Pd]无线新闻
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
+翡翠台,https://10.fast.hidns.vip/163189/fct/
+翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
+中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
 北京节目,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -2120,7 +2173,179 @@ DJ秒针,https://txmov2.a.kwimgs.com/upic/2022/07/21/07/BMjAyMjA3MjEwNzAyNTBfOTU
 下辈子不一定还能遇见你,https://alimov2.a.kwimgs.com/upic/2022/08/12/12/BMjAyMjA4MTIxMjI4NDFfOTU2MzA3MDg4XzgxNjIwNzczMjE0XzJfMw==_b_Bb9293e44928a67a8516143e41bb648f7.mp4?clientCacheKey=3xm7qkzt7wxwx2u_b.mp4&tt=b&di=24710b75&bp=10000
 九月九的酒,https://alimov2.a.kwimgs.com/upic/2022/08/13/05/BMjAyMjA4MTMwNTI5NDNfOTU2MzA3MDg4XzgxNjgyMzI0MTA0XzJfMw==_b_B47520b4e5303dd59437f957e1cf4c9e3.mp4?clientCacheKey=3xhgeusyevt5a86_b.mp4&tt=b&di=24710b75&bp=10000
 
+SW-日本JAPAN,#genre#
+CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
+CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
+フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
+NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
+NHK G,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
+NHK E,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
+NTV,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
+TV Asahi,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
+TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
+TV Tokyo,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
+Fuji TV,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
+Tokyo MX1,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
+Tokyo MX2,https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
+BS NTV,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
+BS Asahi,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
+BS TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
+BS TV Tokyo,https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
+BS Fuji,https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
+BS 10,https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+BS 11,https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+BS 12,https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+NHK BS4K,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
+WOWOW Prime ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
+WOWOW Cinema,https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
+WOWOW Live,https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
+BS 10 Premium,https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
+JSport 1,https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
+JSport 2,https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
+JSport 3,https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
+JSport 4,https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
+Green Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
+Animax,https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
+Nihon Eiga Senmon,https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
+Fishing Vision,https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
+WOWOW Plus,https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+Disney Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
+Jcom BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
+BS Yoshimoto,https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+
+Sky A,https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8
+GAORA,https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
+AT-X,https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+Space Shower TV,https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
+MTV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8
+Mnet,https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+V Paradise,https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+the Cinema,https://haru.charandom.blog/stream/jp/the_chinema/stream-output.m3u8?mode=hls
+Kayo Pops,https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
+Kids Station,https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
+Cartoon Network,https://haru.charandom.blog/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls
+NTV G+,https://haru.charandom.blog/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+NTV Plus,https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+Family Gekijo,https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
+Mondo TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8
+TBS Channel 1,https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+TBS Channel 2,https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+TV Asahi Channel 1,https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+TV Asahi Channel 2,https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+Fuji TV One,https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+Fuji TV Two,https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+Fuji TV Next,https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
+Neco Channel,https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+Dlife,https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+Toei Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
+Fighting TV Samurai,https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+Me-Tele Next,https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+Sport live plus,https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+Shogi Channel,https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+Home Drama Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
+Channel Ginga,https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
+Tabi Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
+Tetsudo Channel,https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+Music On!,https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+Music Air,https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+Action Channel,https://haru.charandom.blog/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
+Mystery Channel,https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+QVC,https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+GSTV,https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+Jidaigeki Senmon,https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
+Eisei Gekijo,https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8
+Movie Plus,https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
+Golf Network,https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8
+Music Japan,https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8
+LaLa TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8
+Sky Stage,https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
+National Geographic,https://naori-test.netgenx.site/pxx.php?shk_cid=cs10#.m3u8
+Disney Junior,https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8
+Discovery ,https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8
+Animal Planet,https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8
+History Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8
+KNTV,https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+NTV News24,https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+CNNj,https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8
+BBC News ,https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
+TBS News,https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
+
+
 韩国KOREA,#genre#	
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+CJONSTYLE,http://mytv.dothome.co.kr/ch/catv/91.php
+CJONSTYLE+,http://mytv.dothome.co.kr/ch/catv/92.php
+
+EBS +1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS +2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS 1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
+EBS 2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS E,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS E,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+EBS 兒童頻道,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+NBS 韓國農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS 韓國農業廣播,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS 韓國農業廣播,http://n2086.securepoint.io:25461/6Byt5ktufakh/4tCGs3ACR43v/162629
+RedBull,http://mytv.dothome.co.kr/ch/catv/61.php
+SBS 강심장,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
+SBS 닥터스,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
+SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+SBS 런닝맨,https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?
+SBS 스페셜,https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
+SBS 집사부일체,https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?
+SBS 패밀리가 떴다,https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+TJBI SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+KBS LIVECAM DOKDO,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+HOME SHOPPING,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+CJ ONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ ONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+EBS EN,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS KIDS,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+EBS 1,https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS 2,https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+EBS+1,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+EBS+2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u
+GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GUGAK TV,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+BBS TV 불교,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+YTN와이티엔,http://mytv.dothome.co.kr/ch/catv/261.php
+
+韓國職業廣播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+프란체스카,https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
 CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 CJONSTYLE,http://mytv.dothome.co.kr/ch/catv/91.php
